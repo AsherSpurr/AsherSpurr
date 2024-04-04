@@ -2,7 +2,7 @@
 <h1><img src="https://github.com/AsherSpurr/AsherSpurr/assets/144856487/979c9782-ed51-48f3-872b-45dd7084dd77" width="40"/> Hey! Welcome in!</h1>
 
 
-<p> I'm <strong>Asher</strong>, a software developer with a focus on Front-End development. <br> 👀 I’m currently interested in leveraging my past warehousing experience to dive into WMS developement <br >😄 Pronouns: They/Them/Theirs</p>
+<p> I'm <strong>Asher</strong>, a software developer with a focus on Front-End development. <br> 👀 I’m currently interested in leveraging my past warehousing experience to dive into WMS development <br> 💡 I'm currently learning TypeScript and web3 fundementals in my spare time. <br>😄 Pronouns: They/Them/Theirs</p>
 
 <h3>Things I code with</h3>
 <p>
