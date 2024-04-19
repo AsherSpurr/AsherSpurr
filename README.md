@@ -2,14 +2,16 @@
 <h1><img src="https://github.com/AsherSpurr/AsherSpurr/assets/144856487/979c9782-ed51-48f3-872b-45dd7084dd77" width="40"/> Hey! Welcome in!</h1>
 
 
-<p> I'm <strong>Asher</strong>, a software developer with a focus on Front-End development. <br> 👀 I’m currently interested in leveraging my past warehousing experience to dive into WMS development <br> 💡 I'm currently learning TypeScript and web3 fundementals in my spare time. <br>😄 Pronouns: They/Them/Theirs</p>
+<p> I'm <strong>Asher</strong>, a software developer with a focus on Front-End development. <br>  <br> 💡 I'm currently learning TypeScript and web3 fundamentals in my spare time. <br>😄 Pronouns: They/Them/Theirs</p>
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EAD54C?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-EAD54C?logo=javascript&logoColor=white"&style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="react badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="html badge">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="css badge">
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge" alt="router badge">
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=for-the-badge" alt="cypress badge">
 </p>
 
 <h3>Where to find me</h3>
