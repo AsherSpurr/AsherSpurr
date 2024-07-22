@@ -2,7 +2,11 @@
 <h1><img src="https://github.com/AsherSpurr/AsherSpurr/assets/144856487/979c9782-ed51-48f3-872b-45dd7084dd77" width="40"/> Hey! Welcome in!</h1>
 
 
-<p> I'm <strong>Asher</strong>, a software developer with a focus on Front-End development. <br>  <br> 💡 I'm currently learning TypeScript and C# to transition to full stack roles. <br>😄 Pronouns: They/Them/Theirs</p>
+<p> I'm <strong>Asher</strong>, a software engineer graduate from Turing School of Software and Developement. <br>  <be>💡 <strong> I'm currently learning: </strong> 
+	<ul> 
+		<li> DataDog for platform monitoring. </li> 
+		<li> Backend development on my project <b> Ringworm Relief </b> to transition towards full stack.</li>
+</ul> <br>😄 <strong >Pronouns: </strong> They/Them/Theirs</p>
 
 <h3>Things I code with</h3>
 <p>
