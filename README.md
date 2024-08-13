@@ -5,6 +5,8 @@
 <p> I'm <strong>Asher</strong>, a software engineer graduate from Turing School of Software and Developement. <br>  <be>💡 <strong> I'm currently learning: </strong> 
 	<ul> 
 		<li> DataDog for platform monitoring. </li> 
+		<li> AWS EC2 - RDS -S3. </li> 
+		<li> Docker. </li> 
 		<li> Backend development on my project <b> Ringworm Relief </b> to transition towards full stack.</li>
 </ul> <br>😄 <strong >Pronouns: </strong> They/Them/Theirs</p>
 
