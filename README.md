@@ -3,7 +3,7 @@
 
 
 <p> I'm <strong>Asher</strong>, a software engineer graduate from Turing School of Software and Development. <br> 
-<h2> 💡 I'm currently learning: </h2> 
+<h3>💡 I'm currently learning: </h3> 
 	<ul> 
 		<li> DataDog for platform monitoring. </li> 
 		<li> AWS EC2 - RDS -S3. </li> 
@@ -11,7 +11,7 @@
 		<li> Backend development on my project <b> Ringworm Relief </b> to transition towards full stack.</li>
 </ul> 
 
-<h2>Things I code with</h2>
+<h3>💻 Things I code with</h3>
 <p>
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
@@ -21,7 +21,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code>
 </p>
 
-<h3>Where to find me</h3>
+<h3>📍 Where to find me</h3>
 <p><a href="https://github.com/AsherSpurr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/asher-spurr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
