@@ -2,15 +2,16 @@
 <h1><img src="https://github.com/AsherSpurr/AsherSpurr/assets/144856487/979c9782-ed51-48f3-872b-45dd7084dd77" width="40"/> Hey! Welcome in!</h1>
 
 
-<p> I'm <strong>Asher</strong>, a software engineer graduate from Turing School of Software and Developement. <br>  <be>💡 <strong> I'm currently learning: </strong> 
+<p> I'm <strong>Asher</strong>, a software engineer graduate from Turing School of Software and Development. <br> 
+<h2> 💡 I'm currently learning: </h2> 
 	<ul> 
 		<li> DataDog for platform monitoring. </li> 
 		<li> AWS EC2 - RDS -S3. </li> 
 		<li> Docker. </li> 
 		<li> Backend development on my project <b> Ringworm Relief </b> to transition towards full stack.</li>
-</ul> <br>😄 <strong >Pronouns: </strong> They/Them/Theirs</p>
+</ul> 
 
-<h3>Things I code with</h3>
+<h2>Things I code with</h2>
 <p>
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
