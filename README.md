@@ -2,7 +2,12 @@
 <h1><img src="https://github.com/AsherSpurr/AsherSpurr/assets/144856487/979c9782-ed51-48f3-872b-45dd7084dd77" width="40"/> Hey! Welcome in!</h1>
 
 
-<p> I'm <strong>Asher</strong>, a software engineer graduate from Turing School of Software and Development. <br> 
+<p> 
+I am a Front End Engineer who is deeply committed to fostering accessibility, genuine connections, personal responsibility, empowering positivity, and continual self-improvement and learning. Before entering the tech industry, I gained valuable experience in warehouse receiving roles, refining my attention to detail and collaborative skills.
+
+Embracing the challenge of mastering new languages and transitioning careers, I ventured into software development. A significant focus of my recent work has been on developing inclusive full-stack applications, prioritizing ease of use for all individuals.
+
+I am dedicated to expanding my proficiency in front-end development and collaborating on projects prioritizing user-centric design. If you're seeking a collaborator who values both creativity and technical expertise, let's connect! <br> 
 <h3>💡 I'm currently learning: </h3> 
 	<ul> 
 		<li> DataDog for platform monitoring. </li> 
