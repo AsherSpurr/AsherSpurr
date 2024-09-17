@@ -3,7 +3,7 @@
 
 
 <p> 
-I am a Front End Engineer who is deeply committed to fostering accessibility, genuine connections, personal responsibility, empowering positivity, and continual self-improvement and learning. Before entering the tech industry, I gained valuable experience in warehouse receiving roles, refining my attention to detail and collaborative skills.
+I am a full stack developer who is deeply committed to fostering accessibility, genuine connections, personal responsibility, empowering positivity, and continual self-improvement and learning. Before entering the tech industry, I gained valuable experience in warehouse receiving roles, refining my attention to detail and collaborative skills.
 
 Embracing the challenge of mastering new languages and transitioning careers, I ventured into software development. A significant focus of my recent work has been on developing inclusive full-stack applications, prioritizing ease of use for all individuals.
 
@@ -13,7 +13,6 @@ I am dedicated to expanding my proficiency in front-end development and collabor
 		<li> DataDog for platform monitoring. </li> 
 		<li> AWS EC2 - RDS -S3. </li> 
 		<li> Docker. </li> 
-		<li> Backend development on my project <b> Ringworm Relief </b> to transition towards full stack.</li>
 </ul> 
 
 <h3>💻 Stack:</h3>
