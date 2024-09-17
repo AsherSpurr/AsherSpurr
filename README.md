@@ -7,7 +7,7 @@ I am a full stack developer who is deeply committed to fostering accessibility, 
 
 Embracing the challenge of mastering new languages and transitioning careers, I ventured into software development. A significant focus of my recent work has been on developing inclusive full-stack applications, prioritizing ease of use for all individuals.
 
-I am dedicated to expanding my proficiency in front-end development and collaborating on projects prioritizing user-centric design. If you're seeking a collaborator who values both creativity and technical expertise, let's connect! <br> 
+I am dedicated to expanding my proficiency in full stack development and collaborating on projects prioritizing user-centric design. If you're seeking a collaborator who values both creativity and technical expertise, let's connect! <br> 
 <h3>💡 I'm currently learning: </h3> 
 	<ul> 
 		<li> DataDog for platform monitoring. </li> 
